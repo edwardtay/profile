@@ -7,7 +7,7 @@ const ProfilePage = () => {
         <Image src="/profile-page/edwardtay.png" width={200} height={200} alt="Profile picture" />
         <br />
         <div className="profile-links">
-          <a href="https://www.linkedin.com/in/edwardtaychuern"><Image src="/profile-page/linkedin.png" width={50} height={50} alt="linkedin logo" /></a>
+          <a href="https://www.linkedin.com/in/edwardtaychuern"><Image src="./public/linkedin.png" width={50} height={50} alt="linkedin logo" /></a>
           <a href="https://github.com/edwardtay"><Image src="/profile-page/github.png" width={50} height={50} alt="github logo" /></a>
           <a href="https://www.twitter.com/iamedwardtay"><Image src="/profile-page/twitter.png" width={50} height={50} alt="twitter logo" /></a>
           <a href="https://soundcloud.com/edwardtay"><Image src="/profile-page/soundcloud.png" width={50} height={50} alt="soundcloud logo" /></a>
