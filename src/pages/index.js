@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 const ProfilePage = () => {
   return (
     <div className="profile-container">
@@ -16,7 +18,6 @@ const ProfilePage = () => {
           <a href="https://medium.com/@edwardtay"><Image src="/profile-page/medium.png" width={50} height={50} alt="medium logo" /></a>
           <a href="https://www.lensfrens.xyz/edwardtay.lens"><Image src="/profile-page/lens.png" width={50} height={50} alt="lens logo" /></a>
           <a href="https://fcast.me/edwardtay"><Image src="/profile-page/farcaster.png" width={50} height={50} alt="farcaster logo" /></a>
-
         </div>
       </div>
     </div>
