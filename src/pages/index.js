@@ -4,7 +4,7 @@ const ProfilePage = () => {
   return (
     <div className="profile-container">
       <div className="profile-content">
-        <Image src="public/edwardtay.png" width={200} height={200} alt="Profile picture" />
+        <Image src="/edwardtay.png" width={200} height={200} alt="Profile picture" />
         <br />
         <div className="profile-links">
           <a href="https://www.linkedin.com/in/edwardtaychuern"><Image src="./public/linkedin.png" width={50} height={50} alt="linkedin logo" /></a>
