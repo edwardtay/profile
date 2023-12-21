@@ -9,7 +9,7 @@ const ProfilePage = () => {
         <div className="profile-links">
           <a href="https://www.linkedin.com/in/edwardtaychuern"><Image src="/linkedin.png" width={50} height={50} alt="linkedin logo" /></a>
           <a href="https://github.com/edwardtay"><Image src="/github.png" width={50} height={50} alt="github logo" /></a>
-          <a href="https://www.twitter.com/iamedwardtay"><Image src="/twitter.png" width={50} height={50} alt="twitter logo" /></a>
+          <a href="https://www.twitter.com/iamedwardtay"><Image src="/X.png" width={50} height={50} alt="twitter logo" /></a>
           <a href="https://soundcloud.com/edwardtay"><Image src="/soundcloud.png" width={50} height={50} alt="soundcloud logo" /></a>
           <a href="https://quora.com/profile/Edward-Tay"><Image src="/quora.png" width={50} height={50} alt="quora logo" /></a>
           <br />
