@@ -16,8 +16,8 @@ const ProfilePage = () => {
           <a href="https://oncyber.io/edwardtay"><Image src="/oncyber.png" width={50} height={50} alt="oncyber logo" /></a>
           <a href="mailto:contact@edwardtay.com"><Image src="/email.png" width={50} height={50} alt="email logo" /></a>
           <a href="https://medium.com/@edwardtay"><Image src="/medium.png" width={50} height={50} alt="medium logo" /></a>
-          <a href="https://www.lensfrens.xyz/edwardtay.lens"><Image src="/lens.png" width={50} height={50} alt="lens logo" /></a>
-          <a href="https://fcast.me/edwardtay"><Image src="/farcaster.png" width={50} height={50} alt="farcaster logo" /></a>
+          <a href="https://hey.xyz/u/edwardtay"><Image src="/lens.png" width={50} height={50} alt="lens logo" /></a>
+          <a href="https://warpcast.com/edwardtay"><Image src="/farcaster.png" width={50} height={50} alt="farcaster logo" /></a>
         </div>
       </div>
     </div>
